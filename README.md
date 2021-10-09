@@ -3,7 +3,7 @@
 
 The purpose of this project is to analyze video game Amazon Vine reviews. 
 
-For this project was performed an ETL performed on the data by using AWS, Google Colaboratory, PostgreSQL, and PySpark. Then the result tables were analyzed to determine if there was any bias for reviews in the Vine Program.
+For this project was performed an ETL on the data by using AWS, Google Colaboratory, PostgreSQL, and PySpark. Then the result tables were analyzed to determine if there was any bias for reviews in the Vine Program.
 
 ## Results
 
