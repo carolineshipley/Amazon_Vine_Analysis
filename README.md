@@ -22,5 +22,6 @@ And these are the result of the analyzis:
 
 ## Summary
 
-Taking into consideration that the sample of non-vine reviews are much greater than vine review,and that the the paid reviews correspond to 51% of 5-starts and un-paid correspond to 38% of the 5-stars. With that we can conclude that there is a positivity bias for reviews in the Vine program. 
-An additional analysis to have a better understanding of reviews patterns is to analyze REVIEW_ID and CUSTOMER_ID to see if a specific customer have a tedency of providing positive or negative reviews.
+Taking into consideration that the sample of non-vine reviews are much greater than vine review, and that the the paid reviews correspond to 51% of 5-stars reviews while un-paid reviews correspond to 38% of the 5-stars. With that we can conclude that there is a positive bias for reviews in the Vine program. 
+
+An additional analysis suggested to have a better understanding of reviews patterns is to analyze REVIEW_ID and CUSTOMER_ID to see if a specific customer have a tedency of providing positive or negative reviews.
