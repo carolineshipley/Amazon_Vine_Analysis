@@ -16,7 +16,7 @@ And these are the result of the analyzis:
 2. There were 48 5-star vine reviews and 15663 5-star non-vine reviews.
 3. 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
 
-![Results](https://github.com/carolineshipley/Amazon_Vine_Analysis/blob/main/Resources/Results)
+![Results](https://github.com/carolineshipley/Amazon_Vine_Analysis/blob/main/Resources/Results.PNG)
 
 ## Summary
 
